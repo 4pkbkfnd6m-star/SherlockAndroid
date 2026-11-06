@@ -1,0 +1,4 @@
+This project is an unofficial Android wrapper for Sherlock.
+Sherlock upstream: https://github.com/sherlock-project/sherlock
+Upstream license: MIT. See the upstream repository for the complete license text.
+This wrapper is not affiliated with or endorsed by the Sherlock Project.
